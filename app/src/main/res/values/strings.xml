@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ace</string>
+    <string name="title_activity_playing_screen">PlayingScreen</string>
+</resources>
